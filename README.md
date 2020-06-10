@@ -1,6 +1,6 @@
 # WindowsTerminalSettings
 
-## Let's make using the command prompt in Windows more fun.
+## Let's make using the command prompt in Windows more fun!
 
 ### Features
 * Acrylic
@@ -10,4 +10,9 @@
 * Pair with [WinTermContext](https://github.com/soda3x/WinTermContext) for powerful integration!
 
 ### Requirements
->Because Powershell Core is the default terminal it is a prerequisite. [Get it here.](https://github.com/PowerShell/PowerShell)
+* [Windows Terminal](https://github.com/microsoft/terminal)
+* [Powershell Core](https://github.com/PowerShell/PowerShell)
+* Powershell Core must be in PATH (pwsh.exe)
+
+### Usage
+Replace current `settings.json` content with the `settings.json` content from this repository by pressing the drop-down arrow in Windows Terminal and pressing _Settings_
