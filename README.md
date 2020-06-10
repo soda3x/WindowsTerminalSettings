@@ -2,6 +2,8 @@
 
 ## Let's make using the command prompt in Windows more fun!
 
+![Screenshot](https://github.com/soda3x/WindowsTerminalSettings/blob/master/screen.png)
+
 ### Features
 * Acrylic
 * Ubuntu colour scheme
